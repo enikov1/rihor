@@ -855,6 +855,7 @@ header ul li .mnu-btn {
 	display: block;
 }
 .section-table_left p {
+	max-width: 80%;
 	font-size: 2rem;
 	display: block;
 }
@@ -2209,4 +2210,7 @@ footer .soc a {
 }
 .delay-1200 {
 	animation-delay: 1200ms;
+}
+.mt-0 {
+	margin-top: 0;
 }
